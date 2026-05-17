@@ -9,7 +9,8 @@ using namespace cmake_creator;
 int main(int argc, const char** args) {
     if (argc <= 1) {
         printf("Usage: cmake_creator <action> [args]\n");
-        printf("Actions: new\n");
+	printf("Actions: new\n");
+	printf("Actions: new <project_name> <creation_path (current directory by defautl)>\n");
         return -1;
     }
 
