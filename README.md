@@ -60,6 +60,3 @@ The project includes a test suite. To run tests:
 cd build
 ctest
 ```
-
-## 📄 License
-This project is open-source. (Add your license info here, e.g., MIT).
