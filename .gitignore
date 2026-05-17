@@ -1,0 +1,21 @@
+# Binaries
+build/
+bin/
+out/
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# CMake leftovers
+CMakeUserPresets.json
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+
+# OS files
+.DS_Store
+thumbs.db
